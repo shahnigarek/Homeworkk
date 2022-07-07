@@ -1,0 +1,16 @@
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.csproj.AssemblyReference.cache
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.AssemblyInfoInputs.cache
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.AssemblyInfo.cs
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.csproj.CoreCompileInputs.cache
+C:\Users\shahnigarek\source\repos\homework2\homework2\bin\Debug\net5.0\homework2.exe
+C:\Users\shahnigarek\source\repos\homework2\homework2\bin\Debug\net5.0\homework2.deps.json
+C:\Users\shahnigarek\source\repos\homework2\homework2\bin\Debug\net5.0\homework2.runtimeconfig.json
+C:\Users\shahnigarek\source\repos\homework2\homework2\bin\Debug\net5.0\homework2.runtimeconfig.dev.json
+C:\Users\shahnigarek\source\repos\homework2\homework2\bin\Debug\net5.0\homework2.dll
+C:\Users\shahnigarek\source\repos\homework2\homework2\bin\Debug\net5.0\ref\homework2.dll
+C:\Users\shahnigarek\source\repos\homework2\homework2\bin\Debug\net5.0\homework2.pdb
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.dll
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\ref\homework2.dll
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.pdb
+C:\Users\shahnigarek\source\repos\homework2\homework2\obj\Debug\net5.0\homework2.genruntimeconfig.cache
